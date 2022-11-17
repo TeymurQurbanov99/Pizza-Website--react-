@@ -25,6 +25,10 @@ function About() {
           Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
           cumque velit
         </p>
+        <p> Hire me as a junior front-ender!
+        </p>
+        <p>My contact number: 994 55 741 32 18 (whatsapp and telegram)</p>
+        <p> My contact e-mail: teyqur@gmail.com</p>
       </div>
     </div>
   );
